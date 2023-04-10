@@ -3,7 +3,7 @@ package main
 import (
   "fmt"
   
-  "rsc.io/quot"
+  "rsc.io/quote"
 )
 
 func main() {
